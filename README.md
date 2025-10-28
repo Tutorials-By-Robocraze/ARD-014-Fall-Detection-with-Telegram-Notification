@@ -1,0 +1,2 @@
+# ARD-014-Fall-Detection-with-Telegram-Notification
+Make safety smart with this fall detection system powered by the Arduino UNO R4 WiFi! Using the MPU6050 accelerometer and gyroscope, the system detects sudden changes in motion that indicate a fall. When a fall is detected, it instantly sends an alert to your Telegram account, ensuring quick response — all while indicating system status with LEDs.
