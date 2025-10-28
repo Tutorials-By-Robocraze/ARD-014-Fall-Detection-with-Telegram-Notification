@@ -19,7 +19,3 @@ Make safety smart with this fall detection system powered by the Arduino UNO R4 
 📱 [Instagram Reel](https://www.instagram.com/reel/DQRfnhfE1s1/?igsh=aGE0b244OTFxbjEy)
 
 ---
-
-
-
-Would you like me to continue using the **🚨 emoji** for all **safety or alert-based IoT projects** (like fire detection, intrusion alert, gas leak alarm, etc.)?
